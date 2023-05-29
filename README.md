@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="Logo do Ignite Lab" src="github/logo.svg" width="160px" />
+  <img alt="Logo do Ignite Lab" src="src/assets/github/logo.svg" width="160px" />
 </p>
 
 <h1 align="center">
-  <img alt="Capa do Ignite Lab" src="github/cover.png" />
+  <img alt="Capa do Ignite Lab" src="src/assets/github/cover.png" />
 </h1>
 
 <br />
